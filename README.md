@@ -51,12 +51,12 @@ Since this application was primarily made for educational purposes, anyone is we
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/mmeurer00/html-portfolio-template-ztm. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
-License 🔗
+### License 🔗
 
-[MIT]()
+- [MIT]()
 
-[ZTM]()
+- [ZTM]()
 
-Code of Conduct ✌
+### Code of Conduct ✌
 
 Everyone interacting in Zero-to-Mastery’s codebases, issue trackers, posts and users are expected to follow the code of conduct.
